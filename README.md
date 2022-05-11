@@ -53,5 +53,5 @@ To build on OSX and Windows under MSYS2 <s>I still need some hack fixes not incl
 
 It can build itself through valgrind without any invalid memory access (of course it leaks memory as usual for this kind of software and it's epoch).
 
-### Added a github workflow to build on linux for 32/64 bits, cross compile for Windows with mingw64 also native OSX see the output at https://github.com/mingodad/cfront-3/actions
+### Added a github workflow to build on linux for 32/64 bits, cross compile for Windows with mingw64 also native OSX see the output at https://github.com/mingodad/cfront-3/actions for binaries
 
